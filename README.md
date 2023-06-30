@@ -1,8 +1,10 @@
-# Helena_Lugo
-# Software Tester QA en Endava
-### QA/Tester
+## Helena_Lugo
+Software Tester QA 
 
-![LinkedIn profile]((https://www.linkedin.com/in/helena-m-lugo-c-54b2541ab))
+<a href="https://www.linkedin.com/in/helena-m-lugo-c-54b2541ab" target="_blank">LinkedIn Profile</a>
+
+
+
 
 
 
